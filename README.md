@@ -18,4 +18,3 @@ Desenvolver um script em Python focado em simular uma esteira de dados (data pip
 
 ## 📈 Evolução Futura
 Conforme o avanço nas disciplinas de Ciência de Dados do 2º período, este pipeline será integrado com as bibliotecas `Pandas` e `NumPy` para manipulação de grandes volumes de dados (Dataframes) e exportação automatizada para bancos de dados SQL.
-Conforme o avanço nas disciplinas de Ciência de Dados do 2º período, este pipeline será integrado com as bibliotecas `Pandas` e `NumPy` para manipulação de grandes volumes de dados (Dataframes) e exportação automatizada para bancos de dados SQL.
